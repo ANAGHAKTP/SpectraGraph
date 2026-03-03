@@ -61,7 +61,7 @@ export function NavUser() {
           </div>
         </DropdownMenuLabel>
         <DropdownMenuLabel className="text-xs font-light opacity-60">Preferences</DropdownMenuLabel>
-
+        
         <DropdownMenuSub>
           <DropdownMenuSubTrigger>
             <div className="flex items-center">
